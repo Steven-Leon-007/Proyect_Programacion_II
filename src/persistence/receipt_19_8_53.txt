@@ -1,0 +1,11 @@
+__________________________________________________
+Receipt 
+id:receipt_19_8_53
+Date:2023-11-21
+Producto: Air Jordan
+Cantidad: 1
+Valor Unitario: 199.99
+Valor Total: 199,99
+
+Total Compra: 199,99
+__________________________________________________

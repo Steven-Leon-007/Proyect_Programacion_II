@@ -1,0 +1,21 @@
+__________________________________________________
+Receipt 
+id:1
+Date:2023-11-21
+Producto: Disaronno Cologne
+Cantidad: 1
+Valor Unitario: 149.99
+Valor Total: 149,99
+
+Producto: JO Malone Cologne
+Cantidad: 1
+Valor Unitario: 199.99
+Valor Total: 199,99
+
+Producto: Versace Eros Cologne
+Cantidad: 1
+Valor Unitario: 299.99
+Valor Total: 299,99
+
+Total Compra: 649,97
+__________________________________________________

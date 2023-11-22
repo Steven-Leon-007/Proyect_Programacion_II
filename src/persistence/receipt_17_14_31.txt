@@ -1,0 +1,21 @@
+__________________________________________________
+Receipt 
+id:1
+Date:2023-11-21
+Producto: Air Pods
+Cantidad: 1
+Valor Unitario: 49.99
+Valor Total: 49,99
+
+Producto: Michael Kors Bag
+Cantidad: 1
+Valor Unitario: 119.99
+Valor Total: 119,99
+
+Producto: LUMIX Camera
+Cantidad: 1
+Valor Unitario: 799.99
+Valor Total: 799,99
+
+Total Compra: 969,97
+__________________________________________________
